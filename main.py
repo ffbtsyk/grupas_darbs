@@ -7,6 +7,6 @@ horoskopi = ["prieks", "nauda", "skumjas", "milestiba", "veiksme", "jaunas iepaz
 random.shuffle(horoskopi)
 
 for i in range(12):
-  print(zodiak[i])
-  print(predictions[i])
+  print(zodiac[i])
+  print(horoskopi[i])
   print("-----")
